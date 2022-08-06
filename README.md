@@ -8,9 +8,10 @@
 我的另一个名字是**shuia**
 <sub>[@shuia](https://github.com/androidhtml)是我用于第一个的账户， [@outlookthe](https://github.com/outlookthe)是我的测试账号而[@hllqk](https://github.com/hllqk)是我的正式账号
 </sub>
-[![hllqk的 GitHub stats](https://github-readme-stats.vercel.app/api?username=hllqk)](https://github.com/anuraghazra/github-readme-stats)
- ![](https://stats.justsong.cn/api/bilibili/?id=227561303)
-
+<div align=left>
+<img src='https://github-readme-stats.vercel.app/api?username=hllqk'>
+<img src='https://stats.justsong.cn/api/bilibili/?id=227561303'>
+</div>
 <img src='https://cloud.shuia.tk/img/555.png' width=400px />
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hllqk&layout=compact&hide_border=true&langs_count=10' width='410px'>
