@@ -1,16 +1,22 @@
-### Hi there 
-<font color="blue">hhh</font>
-<!--
-**hllqk/hllqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://cloud.shuia.tk/img/d5fb4437-3438-4bbe-af0e-62ba3e57ea37.png'>
 
-Here are some ideas to get you started:
+## 这里是*hllqk*<img style='border-radius: 50%; height: 40px; width: 40px;' src='https://cdn.shuia.tk/assets/img/logo.jpg'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://visitor-badge.glitch.me/badge?page_id=hllqk" /><img align='middle' src='https://hb.shuia.tk/?text=%E6%98%AF%E5%AD%A6%E7%94%9F%EF%BC%81%E7%9D%BE%E8%B4%B5%E7%9A%84%E7%B4%AB%E8%89%B2%EF%BC%81&img=https://i.imgur.com/QncNJJ1.png&bgcolor1=a371f7&bgcolor2=8957e5'></img><img align='middle' src='https://hb.shuia.tk/?text=♂&bgcolor1=b100ffd9&img=https://i.imgur.com/dGqcpPU.jpg'></img><img align='middle' src='https://hb.shuia.tk/?text=VSCode&bgcolor1=24aff2&bgcolor2=0075b8&img=https://i.imgur.com/XksHKIV.jpg'></img><img align='middle' src='https://hb.shuia.tk/?text=JavaScript&bgcolor1=f7df37&bgcolor2=f7df37&color=333&img=https://i.imgur.com/de9PXVn.jpg'></img>
+
+
+我的另一个名字是**shuia**
+<sub>[@shuia](https://github.com/androidhtml)是我用于第一个的账户， [@outlookthe](https://github.com/outlookthe)是我的测试账号而[@hllqk](https://github.com/hllqk)是我的正式账号
+</sub>
+[![hllqk的 GitHub stats](https://github-readme-stats.vercel.app/api?username=hllqk)](https://github.com/anuraghazra/github-readme-stats)
+ ![](https://stats.justsong.cn/api/bilibili/?id=227561303)
+
+<img src='https://cloud.shuia.tk/img/555.png' width=400px />
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=hllqk&layout=compact&hide_border=true&langs_count=10' width='410px'>
+
+![对于无法看清眼前道路的人来说，「神之眼」或许是神的一盏明灯。但对于有信念的人来说，只是一个可有可无的奖章罢了](https://genshin-card.getloli.com/9/257461679.png)
+<center>
+
+[<img align='middle' src='https://hb.shuia.tk/?text=个人主页&img=https://cloud.shuia.tk/img/FDT9Yeg.jpeg'></img>](https://cdn.shuia.tk/)[<img align='middle' src='https://hb.shuia.tk/?text=我的博客'></img>](http://www.shui.tk/)[<img align='middle' src='https://hb.shuia.tk/?text=联系我啊&img=https://cloud.shuia.tk/img/1FwssQY.jpeg'></img>](mailto:hllqk@outlook.com)
+</center>
