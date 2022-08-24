@@ -11,6 +11,9 @@
 <div align=left>
 <img width='400px' src='https://github-readme-stats.vercel.app/api?username=hllqk'>
 <img src='https://stats.justsong.cn/api/bilibili/?id=227561303'>
+
+<svg width="200" height="200"><g style="fill: rgb(66, 185, 131); opacity: 0.75;"><polygon points="100,36 130.64779411274677,75.55919976713764 172.53463666632769,116.55555748634978 134.71069912940465,172.07750943219352 70.49590574000605,161.2658830173645 56.323229534254295,109.96893784124289 43.08266807632742,54.60994242468421"></polygon><circle style="fill: transparent; stroke: rgb(153, 153, 153);" cx="100" cy="100" r="80"></circle><text style="font-size: 10px; fill: rgb(102, 102, 102);" x="90" y="29">Python</text><text style="font-size: 10px; fill: rgb(102, 102, 102);" x="130.02977190236314" y="73.07732214483283">Java</text><text style="font-size: 10px; fill: rgb(102, 102, 102);" x="174.23377161250957" y="124.22580869382556">HTML</text><text style="font-size: 10px; fill: rgb(102, 102, 102);" x="129.91730399881536" y="187.88913584702254">PHP</text><text style="font-size: 10px; fill: rgb(102, 102, 102);" x="55.289300870595355" y="177.07750943219355">CSS</text><text style="font-size: 10px; fill: rgb(102, 102, 102);" x="34.62409458807242" y="117.63918904871866">Vue</text><text style="font-size: 10px; fill: rgb(102, 102, 102);" x="23.70069028671105" y="52.128064802379406">JS</text></g></svg>
+
 </div>
 <div align=center>
 <img src='https://cloud.shuia.tk/img/555.png' width=380px />
